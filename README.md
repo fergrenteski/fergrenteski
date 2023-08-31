@@ -1,8 +1,8 @@
 ### Olá! Sou o Luiz Fernando
 ##
 <div>
- <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=fergrenteski&show_icons=true&theme=dracula" />
-<img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergrenteski&layout=compact&theme=dracula"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fergrenteski&show_icons=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergrenteski&layout=compact&theme=dracula"/>
 </div>
 
 ##
