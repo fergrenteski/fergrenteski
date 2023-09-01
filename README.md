@@ -2,8 +2,8 @@
 ##### Becoming a FullStack Developer...
 ##
 <div>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=fergrenteski&show_icons=true&locale=en&theme=dracula" alt="fergrenteski" />
-<img height="140em"src="https://github-readme-stats.vercel.app/api/top-langs?username=fergrenteski&show_icons=true&locale=en&layout=compact&theme=dracula" alt="fergrenteski" />
+<img src="https://github-readme-stats.vercel.app/api?username=fergrenteski&show_icons=true&locale=en&theme=dracula" alt="fergrenteski" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fergrenteski&show_icons=true&locale=en&layout=compact&theme=dracula" alt="fergrenteski" />
 </div> 
 
 ## 
@@ -22,7 +22,7 @@
 
 ##
 
-####Social Medias:
+#### Social Medias:
 <div> 
   <a href="https://instagram.com/fer.grenteski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/n6bZ8p3stb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
