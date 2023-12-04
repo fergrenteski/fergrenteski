@@ -16,9 +16,9 @@
 
 💼 Currently working at RRS Software (Intern)
 
-🎓 Studying software engineering at Positivo University
+🎓 Studying Software Engineering at Positivo University
 
-📌 living in Curitiba/PR
+📌 Living in Curitiba/PR
 
 ⚽ Football, Valorant and Nintendo Switch
 
